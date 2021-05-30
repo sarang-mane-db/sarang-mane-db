@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sarang-mane-db
+- 👋 Hi, I’m sarang mane
 
 <!---
 sarang-mane-db/sarang-mane-db is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
